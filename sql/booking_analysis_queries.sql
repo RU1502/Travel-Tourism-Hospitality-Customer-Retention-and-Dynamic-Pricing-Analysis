@@ -2,12 +2,10 @@
 SELECT * 
 FROM hotel_bookings 
 limit 10;
-
 ##2Count total bookings
 SELECT 
 COUNT(*) AS total_bookings
 FROM hotel_bookings;
-
 ##3 Count cancelled and non-cancelled bookings
 SELECT 
 is_canceled,
