@@ -1,5 +1,3 @@
-# Hotel Booking Customer Retention and Dynamic Pricing Analysis
-
 ## Project Title
 
 **Travel, Tourism & Hospitality: Customer Retention and Dynamic Pricing Analysis**
